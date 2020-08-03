@@ -40,7 +40,7 @@ body {
 }
 #nav-list a {
   color: #951C49;
-  text-align: left;
+  text-align: center;
 }
 #nav-list a:hover {
   background: #cb9f95;
